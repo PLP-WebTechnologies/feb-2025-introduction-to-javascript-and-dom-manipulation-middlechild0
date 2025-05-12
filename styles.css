@@ -1,0 +1,14 @@
+#box {
+  width: 200px;
+  height: 100px;
+  background-color: teal;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.hidden {
+  display: none;
+}
